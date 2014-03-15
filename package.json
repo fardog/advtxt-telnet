@@ -1,0 +1,28 @@
+{
+  "name": "advtxt-telnet",
+  "version": "0.0.1",
+  "description": "An AdvTxt telnet server for local testing. No security at all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fardog/advtxt-telnet"
+  },
+  "keywords": [
+    "game",
+    "adventure",
+    "advtxt"
+  ],
+  "author": "Nathan Wittstock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fardog/advtxt-telnet/issues"
+  },
+  "homepage": "https://github.com/fardog/advtxt-telnet",
+  "dependencies": {
+    "telnet": "0.0.1",
+    "i18n-2": "^0.4.6"
+  }
+}
