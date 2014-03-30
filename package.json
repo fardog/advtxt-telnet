@@ -1,6 +1,6 @@
 {
   "name": "advtxt-telnet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An AdvTxt telnet server for local testing. No security at all.",
   "main": "index.js",
   "scripts": {

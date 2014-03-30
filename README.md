@@ -38,6 +38,14 @@ prompt, anything you enter will be sent directly to your AdvTxt instance.
 Friends should connect to your system's IP at port `6223`. The username they 
 enter when prompted will be their username for the full session.
 
+History
+-------
+
+- **v0.0.2**
+    - Update to use AdvTxt v0.0.5-style replies.
+- **v0.0.1**
+    - Initial Release
+
 The MIT License (MIT)
 ---------------------
 
